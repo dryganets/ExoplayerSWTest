@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AV1Playground</string>
+    <string name="title_activity_video_player">VideoPlayer</string>
+    <string name="play">play></string>
+</resources>
